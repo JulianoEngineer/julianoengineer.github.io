@@ -3,7 +3,7 @@ title: Forty
 subtitle: by HTML5 UP
 email: oliveira.juliano@outlook.com
 description: Estudos, experimentações e exemplos gerados nessa caminhada em busca de conhecimento.(que descrição mais piegas)
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://julianoengineer.github.io" # the base hostname & protocol for your site
 author: Juliano Oliveira
 #street_address: 
